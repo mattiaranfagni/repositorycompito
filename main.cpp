@@ -1,10 +1,8 @@
 namespace std;
-
 void main() {
-	for(int k=1; k<10; k++ ) {
-		cout << k;
+	for(int i=1; i<10; i++ ) 
+	{
+		cout << i ;
 	}
-
-	System.pause();
-
+	System.pause() ;
 }
